@@ -1,4 +1,4 @@
-# Background
+-# Background
 As of right now, all of the data that we are storing into variables in java are lost when the application ends. We need a tool that will 
 allow us to persist data permanently. This tool is called a database.
 The specific type of database we will be utilizing uses a language called SQL.
